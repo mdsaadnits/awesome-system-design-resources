@@ -25,6 +25,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 - [Disaster Recovery](https://cloud.google.com/learn/what-is-disaster-recovery)
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
 - [Top 15 Tradeoffs](https://newsletter.ashishps.com/p/system-design-top-15-trade-offs)
+- [SOAP vs REST](https://aws.amazon.com/compare/the-difference-between-soap-rest/#:~:text=SOAP%20and%20REST%20are%20two%20different%20approaches%20to%20API%20design,exchange%20data%20in%20multiple%20formats.)
 
 ## 🛠️ System Design Building Blocks
 - [Vertical vs Horizontal Scaling](https://newsletter.ashishps.com/p/system-design-vertical-vs-horizontal-scaling)
